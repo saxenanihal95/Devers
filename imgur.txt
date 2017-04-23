@@ -1,4 +1,0 @@
-https://imgur.com/#access_token=e6e1082f20dc4a61b64c4257e652cbc1382b5e49&expires_in=2419200&token_type=bearer&refresh_token=9303fc0196e0e2f5d0734cf377dd06e2deb779ad&account_username=NihalSaxena&account_id=58763389
-
-access_token=e6e1082f20dc4a61b64c4257e652cbc1382b5e49
-refresh_token=9303fc0196e0e2f5d0734cf377dd06e2deb779ad
